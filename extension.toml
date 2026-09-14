@@ -4,7 +4,7 @@ version = "0.1.0"
 schema_version = 1
 authors = ["alxwrd <alxwrd@googlemail.com>"]
 description = "Syntax highlighting for Gherkin (.feature) files used by Cucumber and other BDD tools."
-repository = "https://github.com/alxwrd/zed-feature-highlighting"
+repository = "https://github.com/alxwrd/zed-gherkin"
 
 [grammars.gherkin]
 repository = "https://github.com/binhtddev/tree-sitter-gherkin"
