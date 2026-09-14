@@ -1,0 +1,11 @@
+id = "gherkin"
+name = "Gherkin"
+version = "0.1.0"
+schema_version = 1
+authors = ["alxwrd <alxwrd@googlemail.com>"]
+description = "Syntax highlighting for Gherkin (.feature) files used by Cucumber and other BDD tools."
+repository = "https://github.com/alxwrd/zed-feature-highlighting"
+
+[grammars.gherkin]
+repository = "https://github.com/binhtddev/tree-sitter-gherkin"
+rev = "1a709aebeecbe81bd70dfd6ea784894844be1511"
